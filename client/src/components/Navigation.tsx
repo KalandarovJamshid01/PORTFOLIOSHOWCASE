@@ -5,9 +5,8 @@ import { useLocation } from "wouter";
 import { useIsMobile } from "@/hooks/use-mobile";
 
 const navItems = [
-  { label: "Home", href: "#home" },
-  { label: "About", href: "#about" },
-  { label: "Contact", href: "#contact" },
+  { label: "Главная", href: "#home" },
+  { label: "Контакты", href: "#contact" },
 ];
 
 export function Navigation() {
@@ -40,7 +39,7 @@ export function Navigation() {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-sm border-b">
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
         <div className="text-2xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
-          Company
+          SOFTYSOFTWARE
         </div>
 
         {isMobile ? (
