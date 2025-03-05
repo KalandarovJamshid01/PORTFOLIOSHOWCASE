@@ -40,7 +40,7 @@ export function Navigation() {
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
         <div className="text-2xl font-bold">
           <img 
-            src="/assets/softy 1.jpg" 
+            src="/assets/SS logo png.png" 
             alt="SOFTYSOFTWARE" 
             className="h-12 w-auto"
           />

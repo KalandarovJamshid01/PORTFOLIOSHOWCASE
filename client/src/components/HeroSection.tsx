@@ -52,7 +52,7 @@ export function HeroSection() {
             className="mb-8"
           >
             <img 
-              src="/assets/softy 1.jpg" 
+              src="/assets/SS logo png.png" 
               alt="SOFTYSOFTWARE Logo" 
               className="h-32 w-auto mx-auto"
             />
